@@ -1,4 +1,5 @@
-# ArduinoMIDIController
+# MIDIController
+Based on Arduino
 ## HIDUINO
 https://github.com/ddiakopoulos/hiduino
 ## Arduino MIDI Library
